@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Codeblade98&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="nabayansaha" /></p>
+    alt="Agnij Biswas" /></p>
