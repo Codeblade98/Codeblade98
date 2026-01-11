@@ -1,26 +1,19 @@
-## Hiii there 👋
+# Hi there, I’m Agnij 👋
+📍 Based in India  
 
-<!--
-**Codeblade98/Codeblade98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’ve been working hands-on with **AI Agents and Generative AI** for nearly **2 years**, exploring how intelligent systems reason, interact, and adapt.
 
-Here are some ideas to get you started:
+### 💻 Technical Skills
+- **Programming:** Python, C/C++, Go  
+- **AI/ML:** AI Agents, Generative AI, Computer Vision, Multimodal AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Codeblade98&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+### 🎯 Interests & Hobbies
+- Clash Royale 🎮  
+- Passionate about **AI research** and **speech-based agents** 🗣️🤖  
 
-<br>
+## 📄 Publications
+**Image Realness Assessment with Localization and Multimodal Features**  
+🔗 [Read the paper](https://arxiv.org/pdf/2509.13289)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Codeblade98&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Agnij Biswas" /></p>
+## 🤝 Connect with Me
+🔗 [LinkedIn](https://www.linkedin.com/in/agnij-biswas-82a62124a/)
