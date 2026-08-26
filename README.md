@@ -1,7 +1,7 @@
 # Hi there, I’m Agnij 👋
 📍 Based in India  
 
-I’ve been working hands-on with **AI Agents and Generative AI** for nearly **2 years**, exploring how intelligent systems reason, interact, and adapt.
+I’ve been working hands-on with **AI Agents and Generative AI** for nearly **3 years**, exploring how intelligent systems reason, interact, and adapt.
 
 ### 💻 Technical Skills
 - **Programming:** Python, C/C++, Go, Java  
